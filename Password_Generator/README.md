@@ -12,7 +12,7 @@ This Python script allows users to create secure and customized passwords based 
 
 ## How to Use
 
-1. Clone or download the repository to your local machine.
+1. Download Password_Generator.py to your local machine (Ctrl + Shift + s).
 2. Run the script using a Python interpreter:
 
    ```bash
